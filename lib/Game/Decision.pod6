@@ -1,0 +1,10 @@
+=begin pod 
+
+=NAME    Game::Decision 
+=AUTHOR  The Holy Ghost 
+=VERSION 0.2
+
+=head1 Description
+
+
+=end pod
